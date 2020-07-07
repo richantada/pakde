@@ -68,7 +68,7 @@ http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.daai.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/mytv5.png" group-title="LOKAL PLUS",MYTV
 http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.mytv.m3u8
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/tvone.jpg" group-title="LOKAL PLUS",TV ONE HD
-http://210.210.155.35/session/86b512e0-beda-11ea-934d-b82a72d63267/qwr9ew/s/s105/01.m3u8
+http://ikasalon.com/cgi_bin/vidio/m3u/tvone-live.m3u8
 #https://stream-01.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybJ9V___GtamcweX3XztFajs)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:-1 tvg-ID="ANTV.id" group-title="LOKAL PLUS" tvg-logo="http://cekker.masuk.web.id/logo/antvv.png", ANTV
 http://210.210.155.35/session/637d701a-beda-11ea-934d-b82a72d63267/qwr9ew/s/s07/01.m3u8

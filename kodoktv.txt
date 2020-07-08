@@ -113,57 +113,31 @@ http://ikasalon.com/cgi_bin/useetv/m3u/25+-@%5e=&.idku.zlg25+-@%5e=&.m3u8
 
 
 ############# movies
-
 #EXTINF:-1 tvg-ID="HBO.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/HBO4.png", HBO
-#https://www.dropbox.com/s/dl/gjxh34ruatqoj1t/HBOzalogi.m3u8
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO.m3u8
-http://cekker.masuk.web.id/bro/m3u/hbo-acak123.m3u8
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-ID="HBOSignature.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbosig.png", HBO Signature
-#https://www.dropbox.com/s/dl/3yiz1jhjh5p95i7/HBOSIGNzalogi.m3u8
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Sign.m3u8
-http://cekker.masuk.web.id/bro/m3u/sig-acak123.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-ID="HBOHits.id" tvg-name="HBOHits.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbohits4.png", HBO Hits
-#https://www.dropbox.com/s/dl/rzpmej2zppxtxuz/HBOHITSZalogi.m3u8
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Hits.m3u8
-http://cekker.masuk.web.id/bro/m3u/hits-acak123.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-ID="HBOFamily.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/hbofam.png", HBO Family
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Fam.m3u8
-http://cekker.masuk.web.id/bro/m3u/fam-acak123.m3u8
-
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-ID="CineMax.id" group-title="Movies" tvg-logo="http://cekker.masuk.web.id/logo/CMAX4.png", Cinemax by HBO
-#://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.Cinemax.m3u8
-http://cekker.masuk.web.id/bro/m3u/max-acak123.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?token=h4ck3d
 #EXTINF:-1 tvg-ID="RED.id" group-title="Movies" tvg-logo="https://macan.live/img/red_hbo.png", RED by HBO
-#https://ikasalon.com/cgi_bin/HBO/m3u/zalogipunya.HBO-Red.m3u8
-http://cekker.masuk.web.id/bro/m3u/red-acak123.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?token=h4ck3d
 
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/bios.png" group-title="Movies",Citra Bioskop
-http://ikasalon.com/cgi_bin/vidio/m3u/6684-citra-bioskop-prime.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/drama5.png" group-title="Movies",Citra Drama
-http://ikasalon.com/cgi_bin/vidio/m3u/6401-citra-drama-prime.m3u8
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/zeeb.png" group-title="Movies",Zee Bioskop
-http://ikasalon.com/cgi_bin/vidio/m3u/6399-zee-bioskop-prime.m3u8
-#https://dl.dropboxusercontent.com/s/b12s1ufuoiy8yfy/ZEEBIOS.m3u8?dl=0
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/logo_flik_small1.png" group-title="Movies",Flik
-http://ikasalon.com/cgi_bin/useetv/m3u/xyz.flik.zlgxyz.m3u8
-#EXTINF:-1 tvg-ID="BlueAntExtreme.id" group-title="Movies" tvg-logo="https://i.postimg.cc/02gPnVK8/logo_bioskopindonesia_small1.png", Bioskop Indonesia
-http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.bioskopindonesia.zlg%5e%25@%5e=&.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="Movies",Cinema World
-https://www.dropbox.com/s/dl/0v5z9xkvkhliwub/dCINEW.m3u8
-#http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.cinemaworld.zlg%5e%25@%5e=&.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="Movies",Celestial Movies
-http://ikasalon.com/cgi_bin/useetv/m3u/%5e%25@%5e=&.celestialmovie.zlg%5e%25@%5e=&.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="Movies",Thrill
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="Movies",Warner Tv
-http://ikasalon.com/cgi_bin/useetv/m3u/*&%23%25e&.warner.zlg*&%23%25e&.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="Movies",Cinese Drama
-http://ikasalon.com/cgi_bin/useetv/m3u/*58&%23%25e&!.chinesedrama.zlg*58&%23%25e&!.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LXJh93zF/95.jpg" group-title="Movies",My Cinema
-https://www.dropbox.com/s/dl/qdkkolbhtbenijh/dMYCINE.m3u8
-
-
+#EXTINF:-1 tvg-id="FOX.id" tvg-name="FOX" tvg-logo="http://cekker.masuk.web.id/logo/fox4.png" group-title="Movies",FOX
+http://103.146.202.234:25461/live/zalogi/tester/121.m3u8
+#EXTINF:-1 tvg-id="FOXMovies.id" tvg-name="FOX Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxM4.png" group-title="Movies",FOX Movies
+http://103.146.202.234:25461/live/zalogi/tester/122.m3u8
+#EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="FOX ACTION Movies" tvg-logo="http://cekker.masuk.web.id/logo/foxact4.png" group-title="Movies",FOX ACTION Movies
+http://103.146.202.234:25461/live/zalogi/tester/123.m3u8
+#EXTINF:-1 tvg-id="FOXFamilyMovies.id" tvg-name="FOX FAMILY" tvg-logo="http://cekker.masuk.web.id/logo/foxFam4.png" group-title="Movies",FOX FAMILY
+http://103.146.202.234:25461/live/zalogi/tester/124.m3u8
+#EXTINF:-1 tvg-id="FOXCrime.id" tvg-name="FOX CRIME" tvg-logo="http://cekker.masuk.web.id/logo/foxcr4.png" group-title="Movies",FOX CRIME
+http://103.146.202.234:25461/live/zalogi/tester/125.m3u8
+#EXTINF:-1 tvg-id="FoxLife.id" tvg-name="FOX LIFE" tvg-logo="http://cekker.masuk.web.id/logo/FOXLIFE.png" group-title="Movies",FOX LIFE
+http://103.146.202.234:25461/live/zalogi/tester/126.m3u8
 ############### entertainment
 
 #EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/enter5.png" group-title="Entertainment",Citra Entertainment

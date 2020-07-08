@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF: -1 tvg-name=": RCTI " tvg-chno="129" tvg-logo="https://tvkita.my.id/img/rcti.png" group-title="TV Nasional", RCTI
-#http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.rcti.m3u8
-#https://dl.dropboxusercontent.com/s/nd2ozxyxez7wxxf/rctii.m3u8?dl=0
+http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.rcti.m3u8
 
 #EXTINF: -1 tvg-name=": MNC TV " tvg-chno="130"  tvg-logo="https://tvkita.my.id/img/mnctv.png" group-title="TV Nasional", MNC TV
-#https://ikasalon.com/cgi_bin/vidio/m3u/x23%5E&1.mnctv.m3u8
-#https://dl.dropboxusercontent.com/s/mu7lnv0py20o1as/mncc.m3u8?dl=0
+https://ikasalon.com/cgi_bin/vidio/m3u/x23%5E&1.mnctv.m3u8
 
 #EXTINF: -1 tvg-name="GTV" tvg-chno="131" tvg-logo="https://tvkita.my.id/img/gtv.png" group-title="TV Nasional", GTV
-#http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.globaltv.m3u8
-#https://dl.dropboxusercontent.com/s/n5z48vupb0mzj8b/gtvv.m3u8?dl=0
+http://ikasalon.com/cgi_bin/vidio/m3u/x23%5e&1.globaltv.m3u8
 
 #EXTINF:-1 tvg-ID="SCTV.id" tvg-logo="http://cekker.masuk.web.id/logo/sctv.png" group-title="TV Nasional",SCTV
 #https://www.dropbox.com/s/83ijvy1936fzfvf/sctvvx.m3u8?dl=1
